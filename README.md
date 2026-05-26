@@ -1,16 +1,23 @@
-## Hi there 👋
+# Derouiche Fatma 👋
 
-<!--
-**Fatmaderouiche/Fatmaderouiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Développeuse Full-Stack & Data Science | Master ISI & Data Science
 
-Here are some ideas to get you started:
+Étudiante en Master ISI & Data Science à la FSEGT Tunis.
+Je construis des applications full-stack et des projets data end-to-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack technique
+
+**Frontend** → React.js · Vue.js · JavaScript · TypeScript  
+**Backend** → Node.js · Express.js · NestJS  
+**Bases de données** → PostgreSQL · MySQL · MongoDB  
+**Data & ML** → Python · Pandas · Scikit-learn · Matplotlib · mlxtend  
+**Outils** → Git · Figma · Postman · Scrum  
+
+---
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatma_Derouiche-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatma-derouiche/?locale=fr)
+[![Email](https://img.shields.io/badge/Email-derouicheftm@gmail.com-red?style=flat&logo=gmail)](mailto:derouicheftm@gmail.com)
